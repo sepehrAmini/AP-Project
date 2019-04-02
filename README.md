@@ -1,2 +1,2 @@
 # AP-Project
-1. سپهر امینی افشار   gitHub: sepehrAmini  studnetId : 97105771
+1. سپهر امینی افشار   git: sepehrAmini  studnetId : 97105771
